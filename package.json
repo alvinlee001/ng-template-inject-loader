@@ -15,6 +15,8 @@
   },
   "main": "index.js",
   "dependencies": {
+    "htmlparser2": "4.1.0",
+    "jsdom": "16.2.2",
     "loader-utils": "^1.2.3",
     "node-html-parser": "^1.2.16",
     "schema-utils": "^2.6.5"
