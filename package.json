@@ -1,5 +1,5 @@
 {
-  "name": "string-replace-loader",
+  "name": "ng-template-inject-loader",
   "version": "2.3.0",
   "description": "Replace loader for Webpack",
   "keywords": [
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alvinlee001/string-replace-loader.git"
+    "url": "https://github.com/alvinlee001/ng-template-inject-loader.git"
   },
-  "homepage": "https://github.com/Va1/string-replace-loader",
-  "author": "Valentyn Barmashyn <barmashyn.val@gmail.com>",
+  "homepage": "https://github.com/alvinlee001/ng-template-inject-loader.git",
+  "author": "Alvin Lee <alvinlee001@live.com.my>",
   "license": "MIT",
   "private": false
 }
